@@ -1,6 +1,6 @@
 # newsletter
 
-A new Flutter project.
+A Flutter mobile app for reading latest news in india.
 
 ## Getting Started
 
